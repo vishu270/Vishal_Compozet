@@ -22,3 +22,11 @@ class Car {
     print('Year: $year');
   }
 }
+
+
+OUTPUT:
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Car Details:
+Brand: Toyota
+Model: Corolla
+Year: 2020

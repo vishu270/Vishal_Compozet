@@ -18,3 +18,9 @@ void main() {
  
   print('Sorted List: $numbers');
 }
+
+
+OutPut:-
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Original List: [5, 2, 9, 1, 5, 6]
+Sorted List: [1, 2, 5, 5, 6, 9]

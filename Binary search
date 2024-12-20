@@ -29,3 +29,8 @@ void main() {
     print('Number not found in the list.');
   }
 }
+
+OUTPUT:-
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Number found at index: 3
+

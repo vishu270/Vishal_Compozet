@@ -22,3 +22,11 @@ void main() {
   Dog dog = Dog();
   dog.makeSound();
 }
+
+OUTPUT:-
+
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Animal makes a sound
+Dog barks
+
+[Done] exited with code=0 in 2.147 seconds

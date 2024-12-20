@@ -1,0 +1,20 @@
+void main() {
+  
+  Map<String, dynamic> person = {
+    'name': 'Alice',
+    'age': 25,
+    'city': 'New York'
+  };
+  print('Initial Map: $person');
+
+
+  person['country'] = 'USA';
+  print('After Adding Country: $person');
+
+  
+  person['age'] = 26;
+  print('After Updating Age: $person');
+
+
+  print('Updated Map: $person');
+}

@@ -17,5 +17,5 @@ int multiply(int a, int b) {
   return a * b;
 }
 double divide(int a, int b) {
-  return a / b; // Return as double to handle fractional results
+  return a / b; 
 }

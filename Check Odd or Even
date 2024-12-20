@@ -7,3 +7,7 @@ void main() {
     print("$number is an odd number.");
   }
 }
+
+OUTPUT:-
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+11 is an odd number.

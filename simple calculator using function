@@ -19,3 +19,13 @@ int multiply(int a, int b) {
 double divide(int a, int b) {
   return a / b; 
 }
+
+OUTPUT:-
+
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Addition: 12
+Subtraction: 4
+Multiplication: 32
+Division: 2.0
+
+[Done] exited with code=0 in 0.805 seconds

@@ -18,3 +18,14 @@ void main() {
 
   print('Updated Map: $person');
 }
+
+
+OUTPUT:-
+
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Initial Map: {name: Alice, age: 25, city: New York}
+After Adding Country: {name: Alice, age: 25, city: New York, country: USA}
+After Updating Age: {name: Alice, age: 26, city: New York, country: USA}
+Updated Map: {name: Alice, age: 26, city: New York, country: USA}
+
+[Done] exited with code=0 in 0.72 seconds

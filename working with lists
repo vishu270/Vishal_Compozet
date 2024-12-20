@@ -1,0 +1,10 @@
+void main() {
+  List<int> numbers = [5, 3, 8, 1, 2];
+
+  print('List of integers: $numbers');
+
+ 
+  numbers.sort();
+
+  print('Sorted List: $numbers');
+}

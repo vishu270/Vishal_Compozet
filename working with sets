@@ -11,3 +11,14 @@ void main() {
 
   print('Final Set: $numbers');
 }
+
+OUTPUT:-
+
+
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Initial Set: {1, 2, 3, 4}
+After Adding 5: {1, 2, 3, 4, 5}
+After Removing 2: {1, 3, 4, 5}
+Final Set: {1, 3, 4, 5}
+
+[Done] exited with code=0 in 0.809 seconds

@@ -14,3 +14,21 @@ int fibonacci(int n) {
     return fibonacci(n - 1) + fibonacci(n - 2);
   }
 }
+
+
+OUTPUT:-
+
+[Running] dart "c:\Users\lalla\OneDrive\Documents\Desktop\vishal\Dart hello.dart"
+Fibonacci sequence up to 10 terms:
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+
+[Done] exited with code=0 in 0.727 seconds
